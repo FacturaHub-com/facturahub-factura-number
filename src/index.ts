@@ -1,4 +1,4 @@
-// @facturahub/factura-number — Numeración correlativa de facturas (España). 0 dependencias.
+// facturahub-factura-number — Numeración correlativa de facturas (España). 0 dependencias.
 // Build, parse and validate sequential invoice numbers. The law requires an
 // unbroken correlative series, so gap detection is first-class here.
 

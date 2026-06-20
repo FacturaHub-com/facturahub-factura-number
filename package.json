@@ -1,5 +1,5 @@
 {
-  "name": "@facturahub/factura-number",
+  "name": "facturahub-factura-number",
   "version": "0.1.0",
   "description": "Numeración correlativa de facturas (España): formatear, parsear, siguiente número y detectar huecos. Sin dependencias.",
   "keywords": ["factura", "numeracion facturas", "correlativa", "invoice number", "españa", "spain", "facturacion"],

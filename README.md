@@ -1,4 +1,4 @@
-# @facturahub/factura-number
+# facturahub-factura-number
 
 **Parte del ecosistema [FacturaHub](https://facturahub.com?utm_source=github&utm_medium=referral&utm_campaign=factura-number)** — facturación en España, **Verifactu**, **IVA**, **Modelo 303** y automatización fiscal con IA.
 
@@ -7,13 +7,13 @@
 ## Instalación
 
 ```bash
-npm i @facturahub/factura-number
+npm i facturahub-factura-number
 ```
 
 ## Uso
 
 ```ts
-import { formatNumber, nextNumber, findGaps, isCorrelative } from '@facturahub/factura-number';
+import { formatNumber, nextNumber, findGaps, isCorrelative } from 'facturahub-factura-number';
 
 formatNumber({ series: 'FAC', year: 2026, seq: 42 }); // 'FAC/2026/0042'
 nextNumber('2026/0099');                              // '2026/0100'
