@@ -1,5 +1,7 @@
 # @facturahub/factura-number
 
+**Parte del ecosistema [FacturaHub](https://facturahub.com?utm_source=github&utm_medium=referral&utm_campaign=factura-number)** — facturación en España, **Verifactu**, **IVA**, **Modelo 303** y automatización fiscal con IA.
+
 > Numeración **correlativa** de facturas (España): formatear, parsear, siguiente número y **detectar huecos**. TypeScript · 0 dependencias · MIT.
 
 ## Instalación
@@ -37,3 +39,13 @@ La ley exige que las facturas lleven una numeración **correlativa y sin saltos*
 ---
 
 Hecho por [**FacturaHub**](https://facturahub.com?utm_source=npm&utm_medium=referral&utm_campaign=factura-number) — facturación con IA para autónomos en España: numeración correlativa automática, **Verifactu** y Modelo 303. Gratis.
+
+## Ecosistema FacturaHub
+- 🌐 [FacturaHub](https://facturahub.com?utm_source=github&utm_medium=referral&utm_campaign=factura-number) — la app (gratis, Verifactu incluido)
+- 🔌 [facturahub-api](https://github.com/FacturaHub-com/facturahub-api) — API REST + OpenAPI 3.1
+- 🤖 [facturahub-mcp](https://github.com/FacturaHub-com/facturahub-mcp) — servidor MCP (Claude, Cursor, ChatGPT)
+- 🧾 [facturahub-verifactu](https://github.com/FacturaHub-com/facturahub-verifactu) — Verifactu por API
+- 🧮 Librerías: nif-validator · iva · iban-es · factura-number · verifactu-qr · verifactu-hash · modelo-303
+- ⚙️ Automatización: facturahub-n8n · n8n-nodes-facturahub · facturahub-woocommerce · facturahub-shopify
+
+Temas: Verifactu · Facturación electrónica · IVA · Modelo 303 · AEAT · NIF/CIF · Autónomos · MCP · IA · España
